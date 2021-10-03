@@ -46,13 +46,9 @@
   class=" py-20 h-full"
   style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%)">
   <div class="container px-6 md:w-1/2">
-    <h2 class="text-4xl font-bold mb-2 text-white">
-      Deals in Airconditioning & Refrigeration Spares
-    </h2>
+    <h2 class="text-4xl font-bold mb-2 text-white">We are here for Demo</h2>
     <h3 class="text-2xl mb-8 text-gray-200">
-      Wholesaler of PVC Drain pipe & fittings, Insulation tubes & sheets(Indian
-      and Imported),Copper pipe & copper fittings and All AC installation
-      material.
+      I would like to show my demo app to you. I have added few components.
     </h3>
     <!-- 
     <button
@@ -62,7 +58,7 @@
     </button> -->
   </div>
 </div>
-<section class="container mx-auto px-6 p-10">
+<!-- <section class="container mx-auto px-6 p-10">
   <h2 class="text-4xl font-bold text-center text-gray-800 mb-8">Catalogue</h2>
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
@@ -238,7 +234,7 @@
         alt="XLPE Foam Sheet" />
     </div>
   </div>
-</section>
+</section> -->
 <!-- <div class="container mx-auto px-6 py-2 flex justify-between items-center">
 
   {#each items as item}

@@ -2,32 +2,31 @@
   <div class="container mx-auto px-6 pt-10 pb-6 border-b">
     <div class="flex flex-wrap">
       <div class="w-full md:w-2/4 text-center md:text-left">
-        <h5 class=" mb-6 font-bold">Snow cool India</h5>
+        <h5 class=" mb-6 font-bold">Growth Review App</h5>
         <ul class="mb-4">
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
-              Sales Office: 1400/A, B-4, Gali No. 7, Wazir Nagar, Kotla
-              Mubarakhpur,New Delhi-110003
+              Sales Office: No office
             </addres>
           </li>
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
-              Godown: WZ-932/C-2, Basai Darapur,New Delhi-110015
+              Godown: Aaja mile
             </addres>
           </li>
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
               Mob:
-              <a href="tel:9212150861">9212150861</a>
-              ,
-              <a href="tel:7042678967">7042678967</a>
-              & Tel: 24610861,41010861
+              <a href="tel:9212150861">Kyu chahiye</a>
+              <!-- , -->
+              <!-- <a href="tel:7042678967">7042678967</a>
+              & Tel: 24610861,41010861 -->
             </addres>
           </li>
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
               email:
-              <a href="mailto:snowcool@yahoo.in">snowcool@yahoo.in</a>
+              <a href="mailto:snowcool@yahoo.in">dhruvsach@yahoo.in</a>
             </addres>
           </li>
         </ul>
@@ -106,7 +105,7 @@
     </div>
   </div>
   <div class="container mx-auto px-6 py-6 flex justify-between">
-    <span class="text-xs">© 2019,Entebyte</span>
-    <span class="text-xs">Made with love by Entebyte</span>
+    <span class="text-xs">© 2021, CVT</span>
+    <span class="text-xs">Made with love by Dhruv</span>
   </div>
 </footer>
