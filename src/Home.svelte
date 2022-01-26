@@ -39,12 +39,12 @@
   style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%)">
   <div class="container px-6 md:w-1/2">
     <h2 class="text-4xl font-bold mb-2 text-white">
-      Complete Insulation Solutions & Anicillary ( Duct Support Material )
+      Complete Insulation Solutions & Ancillaries ( Duct Support Material )
     </h2>
     <h3 class="text-2xl mb-8 text-gray-200">
       Wholesaler of Hot and Cold Insulation, Adhesive, Thermal Insualtion
       Protective Coating, Industrial Sealants, Fiber Glass Tissue, Industrial
-      Paint, Insualtion Accessories
+      Paint, Insulation Accessories
     </h3>
     <!-- 
     <button
