@@ -2,7 +2,7 @@
   <div class="container mx-auto px-6 pt-10 pb-6 border-b">
     <div class="flex flex-wrap">
       <div class="w-full md:w-2/4 text-center md:text-left">
-        <h5 class=" mb-6 font-bold">Growth Review App</h5>
+        <h5 class=" mb-6 font-bold">Snow Cool India</h5>
         <ul class="mb-4">
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
