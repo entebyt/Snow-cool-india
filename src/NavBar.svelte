@@ -1,6 +1,6 @@
 <nav>
   <div class="container mx-auto px-6 py-2 flex justify-between items-center">
-    <a class="font-bold text-2xl lg:text-4xl" href="#">Growth Review Demo</a>
+    <a class="font-bold text-2xl lg:text-4xl" href="/">Snow Cool India</a>
     <div class="block lg:hidden">
       <button
         class="flex items-center px-3 py-2 border rounded text-gray-500
