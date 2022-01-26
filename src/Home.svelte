@@ -39,7 +39,7 @@
   style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%)">
   <div class="container px-6 md:w-1/2">
     <h2 class="text-4xl font-bold mb-2 text-white">
-      Complete Insulation Solutions ( Duct Support Material )
+      Complete Insulation Solutions & Anicillary ( Duct Support Material )
     </h2>
     <h3 class="text-2xl mb-8 text-gray-200">
       Wholesaler of Hot and Cold Insulation, Adhesive, Thermal Insualtion
@@ -56,22 +56,6 @@
 </div>
 <section class="container mx-auto px-6 p-10">
   <h2 class="text-4xl font-bold text-center text-gray-800 mb-8">Catalogue</h2>
-  <div class="flex items-center flex-wrap mb-20">
-    <div class="w-full md:w-1/2">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Full Threaded Rod</h4>
-      <p class="text-gray-600 mb-8">
-        A threaded rod, also known as a stud, is a relatively long rod that is
-        threaded on both ends; the thread may extend along the complete length
-        of the rod.They are designed to be used in tension. Threaded rod in bar
-        stock form is often called all-thread.
-      </p>
-    </div>
-    <div class="w-full md:w-1/2 flex justify-center">
-      <img
-        src="assets/snow-cool-india-power-steel-full-threaded-rod.jpg"
-        alt="Full Threaded Rod" />
-    </div>
-  </div>
 
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
@@ -97,6 +81,11 @@
   </div>
 
   <div class="flex items-center flex-wrap mb-20">
+    <div class="w-full md:w-1/2 flex justify-center">
+      <img
+        src="assets/snow-cool-india-aluminium-foil-glass-wool-insulation.jpg"
+        alt="Glass wool insulation" />
+    </div>
     <div class="w-full md:w-1/2">
       <h4 class="text-3xl text-gray-800 font-bold mb-3">
         Glass wool insulation
@@ -113,72 +102,48 @@
         used to insulate piping and for soundproofing.
       </p>
     </div>
+
+  </div>
+  <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2 flex justify-center">
-      <img
-        src="assets/snow-cool-india-aluminium-foil-glass-wool-insulation.jpg"
-        alt="Glass wool insulation" />
-    </div>
-  </div>
-  <div class="flex items-center flex-wrap mb-20">
-    <div class="w-full md:w-1/2">
-      <img
-        src="assets/snow-cool-india-nitrile-rubber-sheet.jpg"
-        alt="Nitrile Sheets" />
-    </div>
-    <div class="w-full md:w-1/2 md:pl-10">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Nitrile Sheets</h4>
-      <p class="text-gray-600 mb-8">
-        Nitrile rubber or acrylonitrile butadiene rubber is a co-polymer of
-        butadiene and acrylonitrile. It has good general resistance to oil along
-        with good mechanical properties, especially tensile strength, flexing,
-        compression set and impermeability to gases. It has moderate aging
-        properties and good adhesion to metal. Its recommended operating
-        temperature range is -30° C to + 120° C. It also displays a good
-        resistance to inorganic chemical products except antioxidant agents and
-        chlorine. It gives satisfactory resistance to general hydrocarbons. Due
-        to its polar nature, we do not recommend its use with polar liquids like
-        ketones, ethers and amines.
-      </p>
-    </div>
-  </div>
-  <div class="flex items-center flex-wrap mb-20">
-    <div class="w-full md:w-1/2">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Fevicol SR-505</h4>
-      <p class="text-gray-600 mb-8">
-        Fevicol SR-505 is a synthetic rubber based solvent containing contact
-        adhesive for Multipurpose applications. It exhibits immediate bond
-        strength and has good resistance to water and aging.
-      </p>
-    </div>
-    <div class="w-full md:w-1/2 flex justify-center">
-      <img
-        src="assets/snow-cool-india-synthetic-rubber-adhesive.jpg"
-        alt="Fevicol SR-505" />
-    </div>
-  </div>
-  <div class="flex items-center flex-wrap mb-20">
-    <div class="w-full md:w-1/2 ">
       <img
         src="assets/snow-cool-india-power-steel-full-threaded-rod.jpg"
         alt="Full Threaded Rod" />
     </div>
-    <div class="w-full md:w-1/2 md:pl-10">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Nitrile Sheets</h4>
+    <div class="w-full md:w-1/2">
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">Full Threaded Rod</h4>
       <p class="text-gray-600 mb-8">
-        Nitrile rubber or acrylonitrile butadiene rubber is a co-polymer of
-        butadiene and acrylonitrile. It has good general resistance to oil along
-        with good mechanical properties, especially tensile strength, flexing,
-        compression set and impermeability to gases. It has moderate aging
-        properties and good adhesion to metal. Its recommended operating
-        temperature range is -30° C to + 120° C. It also displays a good
-        resistance to inorganic chemical products except antioxidant agents and
-        chlorine. It gives satisfactory resistance to general hydrocarbons. Due
-        to its polar nature, we do not recommend its use with polar liquids like
-        ketones, ethers and amines.
+        A threaded rod, also known as a stud, is a relatively long rod that is
+        threaded on both ends; the thread may extend along the complete length
+        of the rod.They are designed to be used in tension. Threaded rod in bar
+        stock form is often called all-thread.
       </p>
     </div>
+
+  </div>
+
+  <div class="flex items-center flex-wrap mb-20">
+    <div class="w-full md:w-1/2 flex justify-center">
+      <img
+        src="assets/snow-cool-india-synthetic-rubber-adhesive.jpg"
+        alt="Pidilite" />
+    </div>
+    <div class="w-full md:w-1/2">
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">Pidilite</h4>
+      <p class="text-gray-600 mb-8">
+        Pidilite is a synthetic rubber based solvent containing contact adhesive
+        for Multipurpose applications. It exhibits immediate bond strength and
+        has good resistance to water and aging.
+      </p>
+    </div>
+
   </div>
   <div class="flex items-center flex-wrap mb-20">
+    <div class="w-full md:w-1/2 flex justify-center">
+      <img
+        src="assets/snow-cool-india-industrial-pvc-pipe.jpg"
+        alt="PVC pipe" />
+    </div>
     <div class="w-full md:w-1/2">
       <h4 class="text-3xl text-gray-800 font-bold mb-3">PVC pipe</h4>
       <p class="text-gray-600 mb-8">
@@ -187,11 +152,6 @@
         tonnes are produced per year. PVC comes in two basic forms: rigid and
         flexible
       </p>
-    </div>
-    <div class="w-full md:w-1/2 flex justify-center">
-      <img
-        src="assets/snow-cool-india-industrial-pvc-pipe.jpg"
-        alt="PVC pipe" />
     </div>
 
   </div>
@@ -218,6 +178,11 @@
   </div>
 
   <div class="flex items-center flex-wrap mb-20">
+    <div class="w-full md:w-1/2 flex justify-center">
+      <img
+        src="assets/snow-cool-india-xlpe-foam-sheet.jpg"
+        alt="XLPE Foam Sheet" />
+    </div>
     <div class="w-full md:w-1/2">
       <h4 class="text-3xl text-gray-800 font-bold mb-3">XLPE Foam Sheet</h4>
       <p class="text-gray-600 mb-8">
@@ -228,11 +193,7 @@
         temperature extremes.
       </p>
     </div>
-    <div class="w-full md:w-1/2 flex justify-center">
-      <img
-        src="assets/snow-cool-india-xlpe-foam-sheet.jpg"
-        alt="XLPE Foam Sheet" />
-    </div>
+
   </div>
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2">
@@ -241,7 +202,9 @@
         alt="Anchor Fasteners" />
     </div>
     <div class="w-full md:w-1/2 md:pl-10">
-      <h4 class="text-3xl text-gray-800 font-bold mb-3">Acoustic Foam Sheet</h4>
+      <h4 class="text-3xl text-gray-800 font-bold mb-3">
+        Acoustic Foam Sheet ( Open Cell )
+      </h4>
       <p class="text-gray-600 mb-8">
         Acoustic foam is an open celled foam used for acoustic treatment. It
         attenuates airbone sound waves, reducing their amplitude, for the

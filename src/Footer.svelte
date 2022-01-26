@@ -6,13 +6,13 @@
         <ul class="mb-4">
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
-              Sales Office:1400/A,B-4,Gali No.7,Wazir Nagar,Kotla Mubarakpur,New
-              Delhi-110003
+              Sales Office: 1400/A,B-4,Gali No.7,Wazir Nagar,Kotla
+              Mubarakpur,New Delhi-110003
             </addres>
           </li>
           <li class="mt-2">
             <addres class="hover:underline text-xs hover:text-orange-500">
-              Godown:A-17 Mayapuri industrial area phase -2 New Delhi
+              Godown: A-17 Mayapuri industrial area phase -2 New Delhi
             </addres>
           </li>
           <li class="mt-2">
