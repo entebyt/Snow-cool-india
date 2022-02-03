@@ -57,10 +57,11 @@
 <section class="container mx-auto px-6 p-10">
   <h2 class="text-4xl font-bold text-center text-gray-800 mb-8">Catalogue</h2>
 
-  <div class="flex items-center flex-wrap mb-20">
+  <div
+    class="flex items-center flex-wrap mb-20 bg-white-1 px-4 py-4 rounded-lg">
     <div class="w-full md:w-1/2">
       <img
-        src="assets/snow-cool-india-nitrile-rubber-sheet.jpg"
+        src="assets/snow-cool-india-nitrile-rubber-sheet.png"
         alt="Nitrile Sheets" />
     </div>
     <div class="w-full md:w-1/2 md:pl-10">
@@ -80,10 +81,11 @@
     </div>
   </div>
 
-  <div class="flex items-center flex-wrap mb-20">
+  <div
+    class="flex items-center flex-wrap mb-20 bg-white-2 px-4 py-4 rounded-lg">
     <div class="w-full md:w-1/2 flex justify-center">
       <img
-        src="assets/snow-cool-india-aluminium-foil-glass-wool-insulation.jpg"
+        src="assets/snow-cool-india-aluminium-foil-glass-wool-insulation.png"
         alt="Glass wool insulation" />
     </div>
     <div class="w-full md:w-1/2">
@@ -125,7 +127,7 @@
   <div class="flex items-center flex-wrap mb-20">
     <div class="w-full md:w-1/2 flex justify-center">
       <img
-        src="assets/snow-cool-india-synthetic-rubber-adhesive.jpg"
+        src="assets/snow-cool-india-synthetic-rubber-adhesive.png"
         alt="Pidilite" />
     </div>
     <div class="w-full md:w-1/2">
@@ -177,10 +179,10 @@
     </div>
   </div>
 
-  <div class="flex items-center flex-wrap mb-20">
+  <div class="flex items-center flex-wrap mb-20 bg-gray px-4 py-4 rounded-lg">
     <div class="w-full md:w-1/2 flex justify-center">
       <img
-        src="assets/snow-cool-india-xlpe-foam-sheet.jpg"
+        src="assets/snow-cool-india-xlpe-foam-sheet.png"
         alt="XLPE Foam Sheet" />
     </div>
     <div class="w-full md:w-1/2">
@@ -195,10 +197,10 @@
     </div>
 
   </div>
-  <div class="flex items-center flex-wrap mb-20">
+  <div class="flex items-center flex-wrap mb-20 bg-gray-2 px-4 py-4 rounded-lg">
     <div class="w-full md:w-1/2">
       <img
-        src="assets/snow-cool-india-acoustic-foam-sheet.jpg"
+        src="assets/snow-cool-india-acoustic-foam-sheet.png"
         alt="Anchor Fasteners" />
     </div>
     <div class="w-full md:w-1/2 md:pl-10">
