@@ -1,4 +1,4 @@
-<div>
+<div id="container">
   We would like to introduce ourselves as distributors for the various products
   in airconditioning and insulation industry. We have been serving this industry
   since last 20 years. Right from the first day, till now we belive in quality,

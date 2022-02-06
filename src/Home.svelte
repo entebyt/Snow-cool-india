@@ -59,7 +59,7 @@
 
   <div
     class="flex items-center flex-wrap mb-20 bg-white-1 px-4 py-4 rounded-lg">
-    <div class="w-full md:w-1/2">
+    <div class="w-full md:w-1/2 flex justify-center">
       <img
         src="assets/snow-cool-india-nitrile-rubber-sheet.png"
         alt="Nitrile Sheets" />
@@ -158,9 +158,9 @@
 
   </div>
   <div class="flex items-center flex-wrap mb-20">
-    <div class="w-full md:w-1/2">
+    <div class="w-full md:w-1/2 flex justify-center">
       <img
-        src="assets/snow-cool-india-anchor-fasteners.jpg"
+        src="assets/snow-cool-india-anchor-fasteners.png"
         alt="Anchor Fasteners" />
     </div>
     <div class="w-full md:w-1/2 md:pl-10">

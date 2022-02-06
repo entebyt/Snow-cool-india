@@ -27,4 +27,5 @@
   router.start();
 </script>
 
-<Home />
+<!-- <Home /> -->
+<svelte:component this={page} />
