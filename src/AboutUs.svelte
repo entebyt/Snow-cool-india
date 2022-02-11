@@ -2,10 +2,11 @@
   <div class="container mx-auto">
     <div class="flex flex-wrap items-center">
       <div
-        class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
+        class="w-10/12 md:w-6/12 lg:w-4/12 md:px-12 md:px-4 mr-auto ml-auto
+        -mt-78">
         <div
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6
-          shadow-lg rounded-lg bg-pink-500">
+          shadow-lg rounded-lg bg-indigo-500">
           <img
             alt="..."
             src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80"
@@ -36,8 +37,9 @@
       valued order. For any enquiries about any of the above products, please
       share your enquiry or BOQ with us here: si.snowcool@yahoo.in
       si.snowcoolindia@gmail.com -->
+
       <div class="w-full md:w-6/12 px-4">
-        <div class="flex bg-gray-100 p-10">
+        <div class="flex bg-indigo-500 p-10 rounded-lg text-white">
           <div class="mb-auto mt-auto max-w-lg">
             <h1 class="text-3xl uppercase">Snow cool India</h1>
             <p class="font-semibold mb-5">Products we deal in:</p>
