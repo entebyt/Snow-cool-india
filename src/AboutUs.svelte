@@ -24,7 +24,7 @@
             <p class="text-md font-light mt-2 text-white">
               We would like to introduce ourselves as distributors for the
               various products in airconditioning and insulation industry. We
-              have been serving this industry since last 20 years. Right from
+              have been serving this industry since last 22 years. Right from
               the first day, till now we belive in quality, hard work, loyalty
               and prompt service to the customers.
             </p>
