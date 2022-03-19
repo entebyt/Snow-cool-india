@@ -8,8 +8,8 @@
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6
           shadow-lg rounded-lg bg-indigo-500">
           <img
-            alt="..."
-            src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80"
+            alt="about-us"
+            src="assets/3d-rendering-ventilation-system.jpg"
             class="w-full align-middle rounded-t-lg" />
           <blockquote class="relative p-8 mb-4">
             <!-- <svg
